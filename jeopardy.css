@@ -1,0 +1,41 @@
+body {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #36454F;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid #36454F;
+  padding: 10px;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: sans-serif;
+}
+
+button {
+  font-size: 1.2em;
+  margin: 2em;
+  padding: 0.5em 1em;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: white;
+  color: #36454F;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #36454F;
+  color: white;
+}
+
+
